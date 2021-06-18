@@ -5,3 +5,5 @@ I made this game for my school project. You can inspect game report from below l
 
 
 Gameplay video: https://youtu.be/9Oa_esjQdYc
+
+![image](https://user-images.githubusercontent.com/79372415/122584633-3e454980-d063-11eb-91b1-332c52cb28ba.png)
